@@ -1,0 +1,1 @@
+2016/09/29 04:23:27 [error] 1743#0: *120 access forbidden by rule, client: 10.0.2.2, server: localhost, request: "GET /.git/HEAD HTTP/1.1", host: "10.10.1.40"
